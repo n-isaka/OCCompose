@@ -1,0 +1,19 @@
+version: '2'
+services:
+        oscobol:
+                image: norisaka/opensource_cobol
+                tty: true
+                environment:
+                        COBCPY: /oscobol/cpy
+                volumes:
+                        - ./src:/oscobol/src
+                        - ./inc:/oscobol/inc
+                        - ./cpy:/oscobol/cpy
+
+        db:
+                image: postgres:9.6
+
+networks:
+        default:
+                
+
