@@ -10,6 +10,7 @@ In this sample, you can experience the collaboration between COBOL and PostgreSQ
 * Get project from github.
 ```
 git clone https://github.com/n-isaka/OCCompose.git
+cd OCCompose/
 ```
 
 * Run container images.
