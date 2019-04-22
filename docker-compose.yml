@@ -7,7 +7,6 @@ services:
                         COBCPY: /oscobol/cpy
                 volumes:
                         - ./src:/oscobol/src
-                        - ./inc:/oscobol/inc
                         - ./cpy:/oscobol/cpy
 
         db:
