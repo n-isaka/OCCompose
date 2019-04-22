@@ -3,7 +3,7 @@ opensource COBOL SMAPLES with Open COBOL ESQL on docker-compose
 
 # overview
 If you have docker compose's environment, you can try this sample right away.
-In this sample, you can experience the collaboration between COBOL and PostgreSQL using opensource COBOL and Open COBOR ESQL.
+In this sample, you can experience the collaboration between COBOL and PostgreSQL using opensource COBOL and Open COBOL ESQL.
 
 # Try this
 
